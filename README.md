@@ -1,40 +1,40 @@
-# 👋 Yo, I'm Guylhermy
+# Guylhermy Port
 
-Founder by ambition, vibecoder by obsession, and gamer by lifestyle.
+Empreendedor, builder e fundador da Nobra.
 
-## 🚀 Who am I anyway?
+Atuo na interseção entre tecnologia, inteligência artificial e negócios, com foco em construir soluções que gerem impacto real no setor da saúde e educação.
 
-Fundador da Nobrega Medtech, a startup por trás da Nobra, uma IA feita pra transformar o setor da saúde.
-Não sou “engenheiro clássico” nem “médico tech”. Só tento construir coisas úteis, misturando código, ideias e persistência até algo fazer sentido.
+## Sobre mim
 
-## 🧠 My superpowers (a.k.a my vibe):
+Sou movido por execução. Gosto de transformar ideias em produtos, testar rápido, aprender com dados e evoluir continuamente.
 
-Vibe coding → não importa a linguagem, importa colocar a ideia no mundo.
+Minha trajetória combina visão estratégica com perfil hands-on: produto, operações, growth e tecnologia aplicados ao crescimento de negócios digitais.
 
-Startup mindset → errar rápido, aprender mais rápido ainda.
+## Principais interesses
 
-Gamer spirit → porque todo desafio parece uma fase extra difícil, mas sempre tem um jeito de passar.
+- Inteligência Artificial aplicada a negócios
+- Startups e SaaS
+- Healthtech e Edtech
+- Growth e aquisição de clientes
+- Automação de processos
+- Produto e experiência do usuário
+- Tecnologia e inovação
 
-## 🤖 My amazing projects:
+## Projetos
 
-Nobra – IA médica que mistura ciência hardcore com o flow criativo de uma startup.
+### Nobra
 
-Alguns side projects que ainda vivem em rascunhos, mas já têm potencial de virar algo grande.
+Plataforma de IA voltada para instituições de ensino superior, com foco em performance acadêmica, acompanhamento contínuo e suporte inteligente ao aluno.
 
-## 🎮 When I’m not vibecoding:
+## Atualmente focado em
 
-Jogando games como se fosse treino de reflexo pra vida real.
+- Escalar produtos SaaS com receita recorrente
+- Estruturar operações comerciais
+- IA aplicada ao mercado brasileiro
+- Desenvolvimento de novos produtos digitais
 
-Maratonando séries com a namorada.
+## Contato
 
-Pensando em novas formas de escalar a Nobrega Medtech.
-
-## 📫 How to reach me:
-
-Email: guyport11@gmail.com
-
-GitHub:https://github.com/GuyPort/Guyport/
-
-LinkedIn: www.linkedin.com/in/guylhermy-port-b16926233
-
-Bora falar de startups, IA, games ou só trocar umas ideias aleatórias sobre tecnologia.
+- Email: guyport11@gmail.com
+- GitHub: https://github.com/GuyPort
+- LinkedIn: www.linkedin.com/in/guylhermy-port-b16926233
